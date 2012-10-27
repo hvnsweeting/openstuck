@@ -1,7 +1,6 @@
 OPENSTUCK - never stuck in openstack
 =====
-Script help create user then give them admin role to service tenant
-[create_service_users](http://dev.vccloud.vn:3000/openstuck/master/tree/create_service_users.sh)
+[Script] (http://dev.vccloud.vn:3000/openstuck/master/tree/create_service_users.sh) help create user then give them admin role to service tenant
 
 [rc] (http://dev.vccloud.vn:3000/openstuck/master/tree/rc) file help saving you some typing
 
