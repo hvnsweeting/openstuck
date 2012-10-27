@@ -1,0 +1,6 @@
+# usage: source rc
+ENDURL=http://192.168.25.66:35357/v2.0
+TENANT=f99323f81f374318ae0061b8390f6306
+TOKEN=ADMINTOKEN
+
+alias ks="keystone --token $TOKEN --endpoint $ENDURL"
