@@ -4,9 +4,12 @@ This is a FAQ
 
 Scripts
 -----
-[Script] (http://dev.vccloud.vn:3000/openstuck/master/tree/create_service_users.sh) help create user then give them admin role to service tenant
-
 [rc] (http://dev.vccloud.vn:3000/openstuck/master/tree/rc) file help saving you some typing
+you must source this file to use all other scripts
+
+[create_service_users] (http://dev.vccloud.vn:3000/openstuck/master/tree/create_service_users.sh) help create user then give them admin role to service tenant
+
+[flush_endpoint] (http://dev.vccloud.vn:3000/openstuck/master/tree/flush_endpoint.sh) flush all endpoints
 
 
 All your command outputs are "printt"
