@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 OPENSTUCK - never stuck in openstack
 =====
 This is a FAQ
@@ -27,4 +26,3 @@ OpenStuck
 =========
 
 Scripts help step by step for install OpenStack (base on OpenStack document)
->>>>>>> fa529613dd31c77ea9d4f74abb72c2f35569547c
