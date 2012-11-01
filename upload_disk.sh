@@ -28,4 +28,6 @@ dformat="ami"
 DISKTYPE=''
 EXTRA="kernel_id=$kernel_id ramdisk_id=$ramdisk_id "
 glance add name=$DISKNAME$DISKTYPE disk_format=$dformat container_format=$dformat $EXTRA < $MAINDISK
+
+glance index
 set +x
