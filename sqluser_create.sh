@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 set -x
 SQL_USER_CREATE=$1
 SQL_USERNAME="root"
