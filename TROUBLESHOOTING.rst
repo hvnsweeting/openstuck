@@ -1,3 +1,14 @@
+Devstack
+==========
+If you used devstack, prepare to face many odd problems when manually install openstack.
+Try to remove everything that devstack installed on your PC. Remove all config it create.
+Ex:
+Before install keystone, try to::
+    apt-get purge keystone python-keystone python-keystoneclient
+    locate keystone
+
+and manually remove anything relate to keystone. Do same for glance, nova...
+
 Keystone
 ==========
 After install keystone and ran ``sample_data.sh``. 
