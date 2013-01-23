@@ -20,6 +20,7 @@ you get error when run ``keystone catalog`` or ``keystone token-get`` as bellow:
     Run the client using --os-auth-url or OS_AUTH_URL, instead of --os-endpoint or OS_SERVICE_ENDPOINT, for example.
 
 or::
+
     root@controller:~# keystone catalog
     'Client' object has no attribute 'service_catalog'
 
